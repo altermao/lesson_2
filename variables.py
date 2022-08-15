@@ -8,12 +8,12 @@ print (SWQ)
 age = 2
 print(age)
 
-#Количество плодов на ветке
+#Вес в граммах
 #int
 weignt = 100
 print(weignt)
 
-#Вес в граммах
+#Количество плодов на ветке
 #int
 amount = 5
 print(amount)
